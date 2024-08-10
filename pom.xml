@@ -8,7 +8,7 @@
   <name>01-maven-web-app</name>
   <url>http://maven.apache.org</url>
 
-  <!-- demo on github webhook -->
+  <!-- hello -->
  
   <dependencies>
     <dependency>
